@@ -6,4 +6,3 @@ Using only the `cd`, `ls` and `cp` commands (don't use finder or mkdir), copy fo
 
 # Tips
 * Use tab completion to help you narrow down what folders to copy
-
